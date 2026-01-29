@@ -4,7 +4,7 @@ import pandas as pd
 # ==========================================
 # 1. 설정 (Profile 및 기본 정보)
 # ==========================================
-AWS_PROFILE = "AIR-D"
+AWS_PROFILE = "default"
 REGION_NAME = "ap-northeast-2"
 ACCOUNT_LABEL = "DEV"
 OUTPUT_FILE = "aws_route_table_final.xlsx"
